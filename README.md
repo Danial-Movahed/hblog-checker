@@ -12,4 +12,4 @@ in bin folder and you are good to go!
 ### Linux
 In linux you need to have curl, python3, subprocess
 and time installed. Download the linux version and
-run the hblog.py and you are good to go!
+run the ```hblog.py``` and you are good to go!

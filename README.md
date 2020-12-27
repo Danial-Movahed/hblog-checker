@@ -11,8 +11,8 @@ extract the files and run the ```hblog-win.py```
 in bin folder and you are good to go!
 Please note that in some cases you may need to
 run this script in cmd.
-(e.g cd C:\Users\test\Downloads\hblog-win\bin
-python hblog-win.py)
+(e.g cd ```C:\Users\test\Downloads\hblog-win\bin```
+```python hblog-win.py```)
 
 ### Linux
 In linux you need to have curl, python3, subprocess

@@ -16,7 +16,7 @@ run this script in cmd.
 
 ### Linux
 In linux you need to have curl, python3, subprocess
-and time installed. Download the linux version and
+and time installed. Download the linux folder and
 run the ```hblog.py``` and you are good to go!
 
 ## License

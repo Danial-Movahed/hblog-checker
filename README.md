@@ -1,5 +1,5 @@
 # Hblog-checker
-Checks helli5blog for new posts!
+Checks helli5blog for new posts and notifies you with notification!
 
 ## Installing
 ### Windows
